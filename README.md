@@ -26,4 +26,4 @@ Learning to create a **TODO application** using **React** and **Firebase** from 
  2. enter "npm run build && firebase deploy"
  3. you will get a clickable link to view you app
 
-😊
+👍😊
