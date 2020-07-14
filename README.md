@@ -1,4 +1,4 @@
-# Building a TODO spp using React and Firebase
+# Building a TODO app using React and Firebase
  
 Learning to create a **TODO application** using **React** and **Firebase** from *scratch* with complete **CRUD** functionality with firebase (database)
 
