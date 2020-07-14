@@ -10,7 +10,7 @@ Learning to create a **TODO application** using **React** and **Firebase** from 
 ### Firebase is also completly free
 ### Used React Hooks
 
-##You should have a file with the following node modules inorder to create this application:
+## You should have a file with the following node modules inorder to create this application:
 
 1. Default node packages which comes when you create a new react project
 2. firebase tools (run in terminal, "npm install -g firebase-tools") and sudo before npm for MAC users
